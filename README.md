@@ -1,5 +1,5 @@
 # **Un1kX**
-[![My Skills](https://skillicons.dev/icons?i=java,cs,rust,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,rust)](https://skillicons.dev)
 
 ## About me
  Currently studying in my second year of college\
