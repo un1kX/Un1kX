@@ -21,11 +21,11 @@
 ## My Projects
 
 **Phonolith - Minecraft Mod**
-The mod expands the potential of sniffers by adding ancient plants, decorative blocks, and elements of the past.
+The mod expands the potential of sniffers by adding ancient plants, decorative blocks, and elements of the past.\
  [Modrinth](https://modrinth.com/mod/phonolith)  •  [CurseForge](https://www.curseforge.com/minecraft/mc-mods/phonolith)  •  [Source](https://github.com/un1kX/Phonolith) 
 
 ## In development
 
 **Outrage**
-Currently developing my own minigame on Minestom while being part of the team behind Stachetopia.
+Currently developing my own minigame on Minestom while being part of the team behind Stachetopia.\
  [Coming Soon](https://i.pinimg.com/1200x/d0/04/47/d0044744444389b54314dafccf7e07bf.jpg) 
