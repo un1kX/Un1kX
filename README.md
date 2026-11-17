@@ -28,4 +28,4 @@ The mod expands the potential of sniffers by adding ancient plants, decorative b
 
 **Outrage**\
 Currently developing my own minigame on Minestom while being part of the team behind Stachetopia.\
- [Coming Soon](https://i.pinimg.com/1200x/d0/04/47/d0044744444389b54314dafccf7e07bf.jpg) 
+ [Coming Soon](https://i.pinimg.com/736x/a3/8b/c4/a38bc4e888e8c3f44127e32b92b1b834.jpg)
