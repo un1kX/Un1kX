@@ -1,6 +1,6 @@
 # **Un1kX**
 
-![My Skills](https://skillicons.dev/icons?i=java,cs,rust)
+![My Skills](https://skillicons.dev/icons?i=java,cs,rust,js,ts)
 
 ## 📌 About me
 
